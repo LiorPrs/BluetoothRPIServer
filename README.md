@@ -1,4 +1,4 @@
-# BluetoothServerclient
+# Bluetooth Raspberry pi Server
 creating bluetooth server on Raspberry Pi 3 B
 simple example.
 
